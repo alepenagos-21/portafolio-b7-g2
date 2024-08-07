@@ -1,0 +1,31 @@
+#presentacion {
+    min-height: 88vh;
+    height: 88vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+    background-image: url(assets/fondo3.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.proyecto {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+#proyecto-1 {
+    background-image: url('assets/jornada.jpeg');
+}
+#proyecto-2 {
+    background-image: url('assets/vos.jpg');
+}
+#proyecto-3{
+    background-image: url('assets/clon.png');
+}
+
+.text-shadow-1 {
+    text-shadow: 1px -1px 8px rgba(0, 0, 0, 1);
+}
