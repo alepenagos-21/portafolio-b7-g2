@@ -4,6 +4,11 @@
     display: flex;
     justify-content: start;
     align-items: center;
+
+    background-image: url(assets/fondo3.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .proyecto {
@@ -12,10 +17,13 @@
     background-size: contain;
 }
 #proyecto-1 {
-    background-image: url('vos.jpg');
+    background-image: url('assets/jornada.jpeg');
 }
 #proyecto-2 {
-    background-image: url('google.png');
+    background-image: url('assets/vos.jpg');
+}
+#proyecto-3{
+    background-image: url('assets/clon.png');
 }
 
 .text-shadow-1 {
