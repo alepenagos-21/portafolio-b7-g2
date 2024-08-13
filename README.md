@@ -4,7 +4,7 @@ El presente proyecto es un portafolio desarrollado para poner en práctica las h
 Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap utilizando además bibliotecas externas.
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Proyecto Desplegado (https://github.com/alepenagos-21)](https://clon-google-hd7l.vercel.app//)
+[Proyecto Desplegado (https://github.com/alepenagos-21)](https://github.com/alepenagos-21)
 
 
 
@@ -22,4 +22,4 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 *Javascript
 
 ---
-Desarrollado con 🖤 por [Alejandra Penagos](https://clon-google-hd7l.vercel.app/) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/).
+Desarrollado con 🖤 por [Alejandra Penagos](https://portafolio-b7-g2-ca5k-dsb7xs24l-alepenagos-21s-projects.vercel.app/) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/).
